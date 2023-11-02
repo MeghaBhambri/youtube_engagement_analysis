@@ -80,13 +80,13 @@ https://github.com/MeghaBhambri/youtube_engagement_analysis/blob/main/requiremen
 - cleaning data 
 - checking info/nans/changing column names
 
-### 4. Visualization(notebooks/exploratory_analysis.ipynb)
+### 2. Visualization(notebooks/exploratory_analysis.ipynb)
 
 - Visualize null values by column using a bar plot created with Seaborn.
 - Generate a heatmap to display correlations between specific columns.
 - Create bar plots to demonstrate category-wise view counts.
 
-### 5. Machine Learning Analysis(notebooks/feature_analysis_model_creation.ipynb)
+### 3. Machine Learning Analysis(notebooks/feature_analysis_model_creation.ipynb)
 
 - Preprocess data for machine learning models, including label encoding and data transformation.
 - Train various regression models, including Linear Regression, Random Forest Regressor, Decision Tree Regressor, and K-Nearest Neighbors Regressor.
@@ -103,6 +103,7 @@ Based on the findings from the analysis, the project concludes that various fact
 ## Next Steps
 
 In the next steps, further enhancements can be made to the data preprocessing pipeline, including additional feature engineering to extract more meaningful insights from the video metadata. Additionally, the project could benefit from an expanded dataset to improve the robustness and accuracy of the predictive models. Regular updates and retraining of the machine learning models based on the latest data would also contribute to more accurate predictions.
+As a end goal we want to create models to recommend content creater how he can increase customer engagement for video. Example for a given category should what are most viewed title, tags and words in description.
 
 ## Contributors
 
